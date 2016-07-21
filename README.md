@@ -1,2 +1,3 @@
 # hello-world
-test
+
+日本語対応してるかの確認
